@@ -1,0 +1,66 @@
+BODY {
+	color:#4E5B63; 
+	font-family:Century Gothic,Futura,Arial,Verdana,sans-serif;
+	font-size: 15px;
+	border-style: double;
+	border-color: #3498DB;
+}
+
+.logo {
+	float:right; 
+	margin-top: 0px;
+	width: 200px;
+
+}
+
+.boton_personalizado{
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+  
+  .txta{  
+   box-sizing: padding-box; 
+  overflow:hidden;
+  padding:20px;
+  resize: none;
+  width:1400px;
+  style="width:300%;
+  font-size:15px;
+  margin:20px auto;
+  display:block;
+  border-radius:20px;
+  border:2px solid #556677;
+}
+
+  .nomcontacto{  
+  box-sizing: padding-box; 
+  overflow:hidden;
+  padding:6px;
+  resize: none;
+  width:700px;
+  font-size:15px;
+  margin:-20px auto;
+  display:block;
+  border-radius:10px;
+  border:2px solid #556677;
+}
+
+.cuestions{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.imggracias {
+  margin: center;
+  display:block;
+  border-radius:10px;
+ left: 100%;
+ top: 100%;
+}
